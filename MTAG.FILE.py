@@ -400,7 +400,7 @@ def quest2():
                 for i in timhortins:
                     print(i,end="",flush = True)
                     time.sleep(0.1)
-                inventory.appened("Tim Hortons Bagel")
+                inventory.append("Tim Hortons Bagel")
                 print(go_home)
         else:
             for i in baglen:
@@ -630,7 +630,7 @@ mmm = ('You have lost.')
 
 
 
-while woo == 2:
+if woo == 1:
     for i in back:
         weewoo()
     
