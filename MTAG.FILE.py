@@ -1,4 +1,3 @@
-#People who worked on this was Andie, Ty, and India
 import time
 import random
 student = ['A','B']
